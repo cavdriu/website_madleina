@@ -8,4 +8,5 @@ Made in R with:
 * [RStudio's R Markdown](https://rmarkdown.rstudio.com/) and [Yihui Xie's {knitr} package](https://yihui.org/knitr/)
 
 Inspired by Matt Dray's Blog:
-[Sending {postcards} with Netlify and Namecheap](https://www.rostrum.blog/2020/12/08/postcard)
+
+* [Sending {postcards} with Netlify and Namecheap](https://www.rostrum.blog/2020/12/08/postcard)
