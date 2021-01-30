@@ -11,7 +11,7 @@ links:
   - label: Instagram
     url: "https://instagram.com/"
   - label: Email
-    url: "mailto:madleina.cavelti@gmail.com"
+    url: ""
 output:
   postcards::trestles
 ---
