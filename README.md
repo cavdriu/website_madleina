@@ -1,6 +1,6 @@
 # Website Madleina
 
-Source for [Madleina's website](https://tricktracktriu.github.io/website_madleina/). Content in progress.
+Source for [Madleina's website](https://cavdriu.github.io/website_madleina/). Content in progress.
 
 Made in R with:
 
